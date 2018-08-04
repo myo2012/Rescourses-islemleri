@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\bin\Debug\RescoursesIslemleri.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\bin\Debug\RescoursesIslemleri.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\bin\Debug\RescoursesIslemleri.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\obj\Debug\RescoursesIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\obj\Debug\RescoursesIslemleri.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\obj\Debug\RescoursesIslemleri.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\obj\Debug\RescoursesIslemleri.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\obj\Debug\RescoursesIslemleri.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\obj\Debug\RescoursesIslemleri.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\bin\Debug\RescoursesLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\RescoursesIslemleri\RescoursesIslemleri\bin\Debug\RescoursesLib.pdb

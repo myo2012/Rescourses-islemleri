@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesLib\bin\Debug\RescoursesLib.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesLib\bin\Debug\RescoursesLib.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesLib\obj\Debug\RescoursesLib.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\RescoursesIslemleri\RescoursesLib\obj\Debug\RescoursesLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\RescoursesIslemleri\RescoursesLib\obj\Debug\RescoursesLib.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\RescoursesIslemleri\RescoursesLib\obj\Debug\RescoursesLib.csproj.GenerateResource.Cache
