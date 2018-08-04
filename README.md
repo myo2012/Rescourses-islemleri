@@ -1,0 +1,1 @@
+# Rescourses-islemleri
